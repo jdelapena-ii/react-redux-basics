@@ -1,0 +1,3 @@
+[submodule "react-redux-basics"]
+	path = react-redux-basics
+	url = https://github.com/jtdelapenaii/react-redux-basics
